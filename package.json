@@ -11,7 +11,8 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "styled-components": "",
-    "@atlaskit/css-reset": ""
+    "@atlaskit/css-reset": "",
+    "react-beautiful-dnd": ""
   },
   "scripts": {
     "start": "react-scripts start",

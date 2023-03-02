@@ -24,8 +24,8 @@ const initialData = {
                 title: `todo`,
                 taskIds: [
                     `task-1`,
-                    `task-2`,
                     `task-3`,
+                    `task-6`,
                     `task-4`,
                 ]
             }
