@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/task-app.iml" filepath="$PROJECT_DIR$/.idea/task-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testDnDapp/.idea/testDnDApp.iml" filepath="$PROJECT_DIR$/../testDnDapp/.idea/testDnDApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ui-clientClean/.idea/ui-clientClean.iml" filepath="$PROJECT_DIR$/../ui-clientClean/.idea/ui-clientClean.iml" />
     </modules>
   </component>
 </project>
